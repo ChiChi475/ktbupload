@@ -37,9 +37,9 @@ jobs:
       - name: Checkout ktb-image repo
         uses: actions/checkout@v4
         with:
-          repository: ktbhub/ktb-image
+          repository: ChiChi475/ktb-image
           path: ktb-image
-          token: ${{ secrets.KTBHUB_PAT }}
+          token: ${{ secrets.CHICHI475_PAT }}
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
