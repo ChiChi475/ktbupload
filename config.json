@@ -1,0 +1,11 @@
+{
+  "sites": [
+    {
+      "slug": "printiment",
+      "prefix": "printiment",
+      "wp_path": "/home/printiment.com/public_html",
+      "wp_author": "chi",
+      "vps_secret_prefix": "PRINTIMENT"
+    }
+  ]
+}
